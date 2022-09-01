@@ -380,9 +380,11 @@ img {
 .icon-socials {
   height: 44px;
   width: 44px;
+  fill: #ffffff1a;
 }
 .icon-socials:hover {
   fill: #2196f3;
   cursor: pointer;
 }
+
 /* icons svg  styles */
