@@ -208,7 +208,7 @@ img {
 
   height: 600px;
 }
-.footer {
+.foot {
   background: #2f303a;
   max-width: 1600px;
   margin: auto;
@@ -459,7 +459,6 @@ img {
   width: 170px;
   height: 92px;
   fill: #afb1b8;
-  background-color: none;
   border: 1px solid #afb1b8;
   border-radius: 4px;
 }
