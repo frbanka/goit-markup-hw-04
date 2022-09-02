@@ -400,8 +400,6 @@ img {
   fill: #757575;
 }
 .icon-socials {
-  height: 44px;
-  width: 44px;
   fill: #ffffff1a;
 }
 .icon-socials:focus {
@@ -413,8 +411,6 @@ img {
   cursor: pointer;
 }
 .icon-socials-team {
-  height: 44px;
-  width: 44px;
   border: none;
   border-radius: 50%;
   fill: #afb1b8;
