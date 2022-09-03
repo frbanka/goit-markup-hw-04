@@ -259,6 +259,11 @@ img {
   margin-right: 0px;
   margin-left: auto;
 }
+.contact-hover {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .contact-list:hover {
   cursor: pointer;
 }
